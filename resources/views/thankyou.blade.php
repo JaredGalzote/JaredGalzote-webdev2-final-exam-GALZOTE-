@@ -1,7 +1,7 @@
 @extends('layouts.app')
 <div class="jumbotron text-center">
   <h1 class="display-3">Thank You!</h1>
-  <p class="lead">You Request have successfully sent!</p>
+  <p class="lead">Your Request have successfully sent!</p>
   <hr>
   <p class="lead">
     <a class="btn btn-primary btn-sm" href="/bible-study-requests" role="button">Check your Request</a>
