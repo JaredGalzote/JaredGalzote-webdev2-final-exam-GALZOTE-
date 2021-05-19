@@ -20,7 +20,7 @@ class CreateBstableTable extends Migration
             $table->string('name', 100);
             $table->string('email');
             $table->bigInteger('number');
-            $table->date('bdate')->Nullable;
+            $table->date('bdate');
             $table->string('relaff');
             $table->date('bsdate');
             $table->time('bstime');
